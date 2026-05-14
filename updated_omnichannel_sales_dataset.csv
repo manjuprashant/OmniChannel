@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_Name,Region,Salesperson,Product,Quantity,Unit_Price,Total_Sales,Payment_Method,Sales_Channel,Store_Type,Platform,Delivery_Type,Device_Type
+ORD0001,2025-05-28,James Wilson,West,Amit,Printer,4,562,2248,UPI,Online,Mobile App,Flipkart,Home Delivery,Desktop
+ORD0002,2025-01-08,Elizabeth Oneal,East,Sneha,Monitor,1,1863,1863,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0003,2025-01-21,Rodney Lozano,South,Amit,Printer,9,1978,17802,Bank Transfer,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0004,2025-04-03,Patricia Erickson,East,Sneha,Mouse,7,1176,8232,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0005,2025-01-12,Julia Stewart,North,Priya,Phone,10,691,6910,Bank Transfer,Online,Website,Flipkart,Home Delivery,Mobile
+ORD0006,2025-01-16,Kathryn Mahoney,North,Karan,Laptop,4,263,1052,Cash,Online,Mobile App,Amazon,Store Pickup,Desktop
+ORD0007,2025-05-25,Christy Cole,North,Karan,Keyboard,8,1278,10224,Credit Card,Online,Mobile App,Flipkart,Store Pickup,Mobile
+ORD0008,2025-02-09,Robert Hansen,North,Rahul,Phone,8,1100,8800,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0009,2025-03-16,Anna Graham,North,Divya,Tablet,9,494,4446,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0010,2025-02-10,Daniel Olsen,West,Amit,Tablet,1,1754,1754,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0011,2025-01-30,Dr. Richard Hernandez,West,Karan,Monitor,8,753,6024,Cash,Online,Mobile App,Shopify,Store Pickup,Tablet
+ORD0012,2025-04-03,Kyle Welch,South,Rahul,Monitor,5,1711,8555,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0013,2025-03-15,Richard Howard,West,Priya,Monitor,10,464,4640,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0014,2025-04-18,Heather Turner,West,Rahul,Printer,6,1966,11796,UPI,Online,Mobile App,Shopify,Store Pickup,Tablet
+ORD0015,2025-01-22,Lori Booth,West,Sneha,Phone,7,897,6279,Cash,Online,Website,Amazon,Home Delivery,Desktop
+ORD0016,2025-03-02,Mary Maldonado,East,Amit,Monitor,6,1168,7008,Cash,Online,Mobile App,Amazon,Store Pickup,Desktop
+ORD0017,2025-05-02,Michael Scott,West,Rahul,Keyboard,4,1360,5440,Bank Transfer,Online,Website,Flipkart,Store Pickup,Tablet
+ORD0018,2025-02-03,Larry Padilla,South,Amit,Phone,4,1431,5724,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0019,2025-03-26,Aaron Hines,West,Divya,Laptop,1,621,621,UPI,Online,Mobile App,Shopify,Store Pickup,Mobile
+ORD0020,2025-03-23,Julie Russell,East,Sneha,Keyboard,5,1282,6410,Bank Transfer,Online,Mobile App,Flipkart,Store Pickup,Mobile
+ORD0021,2025-05-01,Steven Owens,East,Divya,Phone,8,585,4680,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0022,2025-04-12,Kevin Phillips,West,Sneha,Phone,4,1802,7208,Bank Transfer,Online,Mobile App,Shopify,Store Pickup,Tablet
+ORD0023,2025-05-24,Michael Combs,West,Sneha,Mouse,7,1143,8001,Cash,Online,Mobile App,Flipkart,Store Pickup,Mobile
+ORD0024,2025-03-07,Lindsay Swanson,West,Sneha,Printer,3,359,1077,Credit Card,Online,Mobile App,Shopify,Store Pickup,Desktop
+ORD0025,2025-03-10,Sarah Crawford,West,Divya,Mouse,7,1165,8155,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0026,2025-02-26,Ricky Mcdowell,North,Karan,Laptop,5,1460,7300,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0027,2025-03-16,Donna Villa,West,Rahul,Monitor,8,489,3912,UPI,Online,Website,Amazon,Home Delivery,Mobile
+ORD0028,2025-02-06,James Welch,West,Karan,Laptop,7,853,5971,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0029,2025-04-11,Kevin Farrell,East,Sneha,Monitor,10,152,1520,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0030,2025-01-23,Robin Singleton,West,Sneha,Phone,7,307,2149,Bank Transfer,Online,Website,Amazon,Home Delivery,Tablet
+ORD0031,2025-04-22,Tammy Sparks,West,Priya,Mouse,10,1536,15360,Bank Transfer,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0032,2025-04-10,Steven Cross,East,Divya,Keyboard,7,1760,12320,Bank Transfer,Online,Mobile App,Shopify,Store Pickup,Tablet
+ORD0033,2025-05-28,Cindy Cole,North,Amit,Monitor,2,961,1922,UPI,Online,Website,Shopify,Store Pickup,Tablet
+ORD0034,2025-02-25,Elizabeth Warner,South,Sneha,Printer,1,1411,1411,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0035,2025-03-02,Beverly Reese DDS,East,Karan,Printer,7,1312,9184,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0036,2025-03-05,William Kelly,East,Priya,Mouse,2,1975,3950,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0037,2025-03-08,Joel Thornton,East,Karan,Tablet,4,1110,4440,Credit Card,Online,Website,Amazon,Home Delivery,Desktop
+ORD0038,2025-01-17,Amy Mullen,South,Divya,Monitor,4,1913,7652,Bank Transfer,Online,Mobile App,Flipkart,Store Pickup,Desktop
+ORD0039,2025-04-29,Joseph Hunter,South,Karan,Monitor,3,292,876,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0040,2025-04-20,Lindsay Cox,North,Amit,Tablet,10,185,1850,Bank Transfer,Online,Mobile App,Flipkart,Store Pickup,Tablet
+ORD0041,2025-01-20,Tiffany Hill,North,Rahul,Laptop,2,100,200,UPI,Online,Mobile App,Flipkart,Home Delivery,Desktop
+ORD0042,2025-05-03,Angela Brooks,South,Rahul,Printer,5,939,4695,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0043,2025-05-27,Shannon Smith,West,Amit,Printer,2,1926,3852,Bank Transfer,Online,Mobile App,Shopify,Store Pickup,Mobile
+ORD0044,2025-02-22,Christine Hammond,East,Divya,Tablet,3,761,2283,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0045,2025-03-31,Erin Morris,South,Rahul,Mouse,1,702,702,Credit Card,Online,Website,Amazon,Store Pickup,Tablet
+ORD0046,2025-01-07,Carolyn Jones,West,Rahul,Monitor,9,995,8955,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0047,2025-01-30,Sean Montgomery,West,Sneha,Monitor,2,723,1446,Bank Transfer,Online,Mobile App,Flipkart,Store Pickup,Tablet
+ORD0048,2025-04-14,Robert Ramos,South,Amit,Laptop,8,174,1392,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0049,2025-04-17,Jessica Martinez,West,Sneha,Phone,2,1699,3398,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0050,2025-05-28,Stephen Jones,North,Sneha,Printer,9,240,2160,Credit Card,Online,Mobile App,Shopify,Store Pickup,Desktop
+ORD0051,2025-02-07,Hayley Phillips,North,Amit,Monitor,2,189,378,Cash,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0052,2025-04-02,Frank Scott,North,Divya,Monitor,7,1572,11004,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0053,2025-05-19,Stacy Walker,East,Priya,Mouse,2,1855,3710,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0054,2025-01-11,Stephanie Bryant,North,Karan,Laptop,3,232,696,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0055,2025-03-16,Dr. Andrea Reyes,West,Priya,Monitor,2,1431,2862,Bank Transfer,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0056,2025-02-20,Edward Gregory,North,Amit,Keyboard,3,1676,5028,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0057,2025-03-17,Melissa Berger,East,Priya,Mouse,4,1947,7788,Credit Card,Online,Mobile App,Flipkart,Home Delivery,Tablet
+ORD0058,2025-03-20,Kelly Manning,North,Karan,Tablet,9,1202,10818,Credit Card,Online,Mobile App,Amazon,Store Pickup,Tablet
+ORD0059,2025-05-03,Danny Miller,North,Priya,Keyboard,7,1384,9688,Credit Card,Online,Website,Amazon,Home Delivery,Mobile
+ORD0060,2025-02-02,Lucas Palmer DDS,East,Karan,Laptop,8,1342,10736,Cash,Online,Mobile App,Flipkart,Store Pickup,Mobile
+ORD0061,2025-01-07,Katelyn Sanders,West,Rahul,Printer,1,1992,1992,Bank Transfer,Online,Mobile App,Amazon,Store Pickup,Desktop
+ORD0062,2025-05-30,William Perry,South,Amit,Keyboard,1,1103,1103,Bank Transfer,Online,Website,Amazon,Store Pickup,Tablet
+ORD0063,2025-02-11,Lawrence Shepard,South,Priya,Monitor,8,1909,15272,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0064,2025-01-02,Brandon Jones,West,Priya,Tablet,6,181,1086,Credit Card,Online,Website,Shopify,Home Delivery,Mobile
+ORD0065,2025-02-14,Antonio Rowe,East,Karan,Mouse,1,685,685,Credit Card,Online,Mobile App,Shopify,Home Delivery,Desktop
+ORD0066,2025-03-22,Robert Adams,West,Karan,Printer,5,187,935,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0067,2025-03-19,Kimberly Walker,East,Priya,Mouse,7,739,5173,Credit Card,Online,Mobile App,Amazon,Home Delivery,Tablet
+ORD0068,2025-01-18,Vicki Mata,North,Priya,Keyboard,1,607,607,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0069,2025-05-01,John Jones,East,Priya,Keyboard,4,1591,6364,Cash,Online,Mobile App,Shopify,Store Pickup,Desktop
+ORD0070,2025-01-09,Nina Stevenson,North,Karan,Mouse,5,609,3045,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0071,2025-02-19,Monique Gonzales,West,Amit,Keyboard,1,1518,1518,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0072,2025-02-09,Lee Barnett,East,Amit,Laptop,2,549,1098,Credit Card,Online,Website,Flipkart,Home Delivery,Desktop
+ORD0073,2025-01-27,Tim Myers,West,Sneha,Monitor,8,1294,10352,Credit Card,Online,Website,Amazon,Home Delivery,Desktop
+ORD0074,2025-03-01,Raymond Zimmerman,North,Priya,Monitor,2,1450,2900,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0075,2025-03-31,Connie Miller,North,Karan,Monitor,9,1406,12654,Bank Transfer,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0076,2025-03-21,Erik Barber,East,Rahul,Keyboard,1,735,735,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0077,2025-02-01,Juan Brock,South,Rahul,Tablet,9,1561,14049,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0078,2025-01-07,Steven Owens,South,Amit,Mouse,3,1403,4209,UPI,Online,Website,Shopify,Home Delivery,Desktop
+ORD0079,2025-03-22,Scott Williams,North,Karan,Printer,6,812,4872,UPI,Online,Mobile App,Shopify,Home Delivery,Desktop
+ORD0080,2025-05-04,Samantha Wilson,South,Amit,Printer,10,1697,16970,UPI,Online,Mobile App,Amazon,Store Pickup,Mobile
+ORD0081,2025-01-16,David Serrano,East,Divya,Mouse,6,958,5748,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0082,2025-01-28,Danielle Reynolds,North,Priya,Keyboard,2,1800,3600,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0083,2025-03-16,John Shields,North,Rahul,Phone,1,336,336,Cash,Online,Website,Shopify,Home Delivery,Tablet
+ORD0084,2025-01-23,Kelly Cameron,North,Amit,Keyboard,1,332,332,UPI,Online,Website,Amazon,Home Delivery,Tablet
+ORD0085,2025-05-03,Nichole Mullins,West,Sneha,Keyboard,10,892,8920,UPI,Online,Website,Amazon,Store Pickup,Tablet
+ORD0086,2025-05-25,Jeremy Huerta,East,Sneha,Printer,2,1164,2328,UPI,Online,Website,Amazon,Home Delivery,Mobile
+ORD0087,2025-02-18,Joyce Mccarthy,East,Karan,Printer,7,763,5341,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0088,2025-02-21,Theresa Miller,East,Divya,Tablet,1,1953,1953,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0089,2025-01-11,Thomas Barry,West,Priya,Phone,4,1077,4308,Cash,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0090,2025-03-23,Aaron Brown,North,Amit,Laptop,5,1172,5860,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0091,2025-02-19,Janice Andersen,East,Amit,Monitor,7,1856,12992,Cash,Online,Mobile App,Amazon,Store Pickup,Mobile
+ORD0092,2025-03-20,Mrs. Lisa Brown DVM,South,Divya,Tablet,3,1623,4869,Bank Transfer,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0093,2025-02-02,Philip Wells,South,Karan,Keyboard,5,584,2920,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0094,2025-03-08,James Hogan,East,Priya,Laptop,9,1240,11160,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0095,2025-05-05,Larry Spencer,East,Karan,Monitor,5,1562,7810,Bank Transfer,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0096,2025-03-13,Vincent Bell,North,Sneha,Mouse,5,1514,7570,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0097,2025-02-01,Brett Johnson,North,Amit,Printer,2,1488,2976,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0098,2025-05-22,Christopher Lambert,West,Priya,Mouse,8,1936,15488,Bank Transfer,Online,Mobile App,Shopify,Home Delivery,Desktop
+ORD0099,2025-02-10,Robert Williams,East,Divya,Printer,3,1290,3870,Bank Transfer,Online,Mobile App,Amazon,Home Delivery,Desktop
+ORD0100,2025-03-05,Timothy Daniel,North,Karan,Printer,2,1740,3480,Credit Card,Online,Mobile App,Flipkart,Store Pickup,Desktop
+ORD0101,2025-03-16,Matthew Griffin,North,Amit,Printer,3,1905,5715,Credit Card,Online,Website,Amazon,Store Pickup,Mobile
+ORD0102,2025-02-26,Rachel Duran,East,Amit,Laptop,3,1732,5196,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0103,2025-02-20,Susan Lawrence,North,Karan,Phone,9,1500,13500,Bank Transfer,Online,Website,Flipkart,Store Pickup,Mobile
+ORD0104,2025-01-20,George Myers,North,Rahul,Laptop,5,438,2190,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0105,2025-02-22,Susan Wright,West,Divya,Phone,6,664,3984,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0106,2025-05-09,Kristen Smith,East,Divya,Mouse,3,1026,3078,Cash,Online,Website,Shopify,Home Delivery,Mobile
+ORD0107,2025-04-01,Nathan James,North,Sneha,Printer,9,964,8676,UPI,Online,Website,Flipkart,Home Delivery,Tablet
+ORD0108,2025-03-19,Mario Nguyen,East,Sneha,Keyboard,8,1975,15800,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0109,2025-02-11,Jeremiah Smith,North,Divya,Keyboard,9,1400,12600,Bank Transfer,Online,Website,Amazon,Home Delivery,Mobile
+ORD0110,2025-01-18,Rachel Brown,East,Rahul,Monitor,4,391,1564,Cash,Online,Website,Flipkart,Store Pickup,Desktop
+ORD0111,2025-03-13,Sandra Lopez,North,Rahul,Tablet,4,1987,7948,Bank Transfer,Online,Website,Flipkart,Store Pickup,Tablet
+ORD0112,2025-01-25,Deborah Butler,East,Priya,Printer,5,350,1750,Bank Transfer,Online,Website,Shopify,Store Pickup,Mobile
+ORD0113,2025-03-15,Joseph Smith,South,Amit,Tablet,3,107,321,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0114,2025-05-07,Cynthia Marsh,North,Priya,Tablet,6,733,4398,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0115,2025-01-25,Michael Wilson,South,Karan,Mouse,1,1065,1065,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0116,2025-04-07,Jennifer Peters,East,Rahul,Monitor,4,644,2576,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0117,2025-04-04,Kelly English,West,Priya,Keyboard,1,307,307,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0118,2025-03-20,Stefanie Strickland,West,Divya,Monitor,1,1770,1770,UPI,Online,Website,Shopify,Home Delivery,Desktop
+ORD0119,2025-02-27,Randall Jones,North,Karan,Monitor,4,503,2012,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0120,2025-02-16,Hailey Miller,East,Priya,Monitor,8,595,4760,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0121,2025-01-27,Anthony Smith,North,Rahul,Mouse,2,1481,2962,UPI,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0122,2025-05-22,Melissa Fleming,South,Priya,Monitor,6,232,1392,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0123,2025-02-18,Rachel Jones,West,Karan,Monitor,4,229,916,Bank Transfer,Online,Website,Shopify,Home Delivery,Mobile
+ORD0124,2025-05-30,Hector Moore,West,Sneha,Monitor,10,1297,12970,Bank Transfer,Online,Website,Amazon,Home Delivery,Mobile
+ORD0125,2025-05-24,Jennifer Garcia,East,Priya,Mouse,3,1956,5868,UPI,Online,Mobile App,Flipkart,Home Delivery,Tablet
+ORD0126,2025-02-07,Lauren Hill,North,Divya,Mouse,2,1233,2466,Credit Card,Online,Mobile App,Amazon,Home Delivery,Tablet
+ORD0127,2025-04-04,Beth Adams,North,Karan,Monitor,1,1958,1958,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0128,2025-02-24,Anthony Hunt,East,Amit,Mouse,4,683,2732,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0129,2025-03-17,Jenna Parker,North,Rahul,Laptop,2,225,450,Credit Card,Online,Mobile App,Shopify,Store Pickup,Mobile
+ORD0130,2025-04-17,Melissa Grimes,North,Karan,Tablet,7,1224,8568,Bank Transfer,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0131,2025-01-25,Robert Burton,West,Sneha,Monitor,6,1425,8550,Cash,Online,Website,Flipkart,Home Delivery,Tablet
+ORD0132,2025-02-14,Heather Navarro,North,Rahul,Monitor,6,846,5076,Cash,Online,Website,Amazon,Home Delivery,Mobile
+ORD0133,2025-02-01,Shannon Cunningham,East,Divya,Tablet,1,663,663,Cash,Online,Mobile App,Shopify,Store Pickup,Mobile
+ORD0134,2025-05-13,Jennifer Case,North,Karan,Phone,1,999,999,Cash,Online,Website,Flipkart,Home Delivery,Mobile
+ORD0135,2025-04-18,Jacqueline Ponce,South,Rahul,Tablet,3,365,1095,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0136,2025-02-07,Adam Chavez,West,Rahul,Keyboard,8,548,4384,Bank Transfer,Online,Website,Shopify,Home Delivery,Desktop
+ORD0137,2025-04-03,Marissa Smith,West,Karan,Printer,3,1558,4674,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0138,2025-02-08,Tonya Maxwell,East,Karan,Monitor,9,854,7686,Bank Transfer,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0139,2025-04-19,Sharon Reed,South,Priya,Monitor,7,1410,9870,Cash,Online,Mobile App,Flipkart,Store Pickup,Mobile
+ORD0140,2025-04-23,Wendy Daniels,South,Karan,Printer,3,839,2517,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0141,2025-03-28,Laura Hamilton,East,Sneha,Monitor,9,118,1062,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0142,2025-03-23,Brian Huffman,North,Amit,Monitor,8,836,6688,Bank Transfer,Online,Mobile App,Shopify,Store Pickup,Tablet
+ORD0143,2025-01-07,Ronald Sexton,North,Priya,Keyboard,10,840,8400,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0144,2025-05-24,Gregory Wright,West,Divya,Keyboard,2,1119,2238,Bank Transfer,Online,Mobile App,Shopify,Home Delivery,Mobile
+ORD0145,2025-01-03,Kristin Boyd,South,Priya,Laptop,10,249,2490,Cash,Online,Website,Shopify,Home Delivery,Desktop
+ORD0146,2025-04-22,Nicole Thompson,North,Priya,Phone,1,651,651,Bank Transfer,Online,Mobile App,Flipkart,Store Pickup,Tablet
+ORD0147,2025-05-20,Taylor Castillo,West,Amit,Keyboard,6,276,1656,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0148,2025-04-16,Jose Rodriguez,West,Priya,Keyboard,1,712,712,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0149,2025-01-18,Carolyn Turner PhD,South,Amit,Keyboard,4,1422,5688,Credit Card,Online,Website,Flipkart,Home Delivery,Tablet
+ORD0150,2025-05-24,Peter Watts,North,Priya,Keyboard,5,850,4250,Credit Card,Online,Website,Amazon,Home Delivery,Mobile
+ORD0151,2025-03-30,Theresa Hudson,South,Priya,Mouse,3,316,948,Bank Transfer,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0152,2025-04-08,Aaron Flowers,South,Priya,Phone,10,657,6570,UPI,Online,Mobile App,Shopify,Home Delivery,Desktop
+ORD0153,2025-04-12,Laura Mitchell,East,Karan,Tablet,10,1301,13010,UPI,Online,Website,Amazon,Home Delivery,Desktop
+ORD0154,2025-03-05,Jessica Coleman,South,Rahul,Monitor,3,472,1416,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0155,2025-01-29,Jennifer Vaughn,West,Priya,Monitor,8,356,2848,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0156,2025-03-02,William Owens,South,Sneha,Laptop,8,1508,12064,Bank Transfer,Online,Website,Amazon,Store Pickup,Mobile
+ORD0157,2025-04-10,Micheal Roberts,West,Sneha,Monitor,3,1873,5619,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0158,2025-05-25,Edward David,North,Rahul,Keyboard,1,1154,1154,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0159,2025-05-04,Austin Craig,West,Amit,Tablet,9,1457,13113,Cash,Online,Mobile App,Flipkart,Store Pickup,Mobile
+ORD0160,2025-05-12,Derrick Burns,South,Amit,Mouse,2,1092,2184,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0161,2025-04-17,Nicholas Gonzalez,West,Amit,Phone,10,1788,17880,Bank Transfer,Online,Mobile App,Shopify,Home Delivery,Tablet
+ORD0162,2025-02-19,Ashley Mcclain,East,Divya,Phone,4,1389,5556,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0163,2025-05-09,Christian Harris,North,Priya,Keyboard,4,633,2532,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0164,2025-05-24,Whitney Davis,West,Priya,Phone,2,1952,3904,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0165,2025-03-19,Mr. Antonio Copeland DDS,South,Sneha,Mouse,1,334,334,Cash,Online,Mobile App,Flipkart,Home Delivery,Mobile
+ORD0166,2025-03-07,Nicholas Goodman,South,Divya,Phone,2,1266,2532,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0167,2025-01-24,Diana Castillo,North,Sneha,Phone,2,1738,3476,Credit Card,Online,Website,Flipkart,Store Pickup,Desktop
+ORD0168,2025-03-11,Brenda Lee,East,Rahul,Keyboard,7,1039,7273,Cash,Online,Website,Flipkart,Store Pickup,Tablet
+ORD0169,2025-05-15,Tiffany Dillon,West,Sneha,Monitor,1,1191,1191,Bank Transfer,Online,Website,Shopify,Store Pickup,Desktop
+ORD0170,2025-04-07,Scott Young,East,Rahul,Laptop,1,395,395,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0171,2025-03-31,Jared Moore,West,Priya,Tablet,10,1261,12610,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0172,2025-02-19,Paul James,East,Rahul,Mouse,3,187,561,Cash,Online,Website,Shopify,Home Delivery,Mobile
+ORD0173,2025-03-11,Arthur Meadows,East,Rahul,Mouse,6,1535,9210,UPI,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0174,2025-03-19,Anthony Torres,South,Divya,Printer,5,725,3625,Bank Transfer,Online,Website,Amazon,Home Delivery,Tablet
+ORD0175,2025-04-10,Sarah Campbell,North,Rahul,Printer,1,254,254,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0176,2025-05-02,Crystal Smith,East,Karan,Printer,4,1848,7392,Bank Transfer,Online,Website,Shopify,Store Pickup,Mobile
+ORD0177,2025-04-27,Lauren Le,South,Amit,Laptop,2,1576,3152,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0178,2025-02-08,Kayla Jefferson,North,Divya,Monitor,8,991,7928,UPI,Online,Mobile App,Shopify,Store Pickup,Mobile
+ORD0179,2025-05-31,Dr. Wesley Henderson,North,Priya,Printer,8,1345,10760,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0180,2025-03-30,Michael Sanchez,West,Rahul,Tablet,2,1759,3518,Cash,Online,Website,Shopify,Store Pickup,Desktop
+ORD0181,2025-03-06,Michael Jackson,North,Divya,Printer,4,885,3540,Credit Card,Online,Website,Flipkart,Store Pickup,Mobile
+ORD0182,2025-01-21,Stephanie Mckenzie,East,Karan,Mouse,7,276,1932,UPI,Online,Mobile App,Flipkart,Home Delivery,Mobile
+ORD0183,2025-01-21,Brittney Brown,West,Sneha,Monitor,5,1216,6080,Credit Card,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0184,2025-04-25,Justin Dennis,South,Priya,Tablet,7,1446,10122,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0185,2025-04-30,Christina Clayton,North,Sneha,Keyboard,1,1115,1115,Bank Transfer,Online,Website,Shopify,Store Pickup,Tablet
+ORD0186,2025-03-23,Brittany Ballard,South,Divya,Mouse,5,1859,9295,Bank Transfer,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0187,2025-01-25,Robert Townsend,West,Karan,Tablet,7,1546,10822,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0188,2025-04-05,Joseph Reyes,South,Priya,Monitor,5,420,2100,Bank Transfer,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0189,2025-01-24,Andrew Dawson,East,Karan,Laptop,1,1229,1229,Bank Transfer,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0190,2025-03-19,James Jensen,East,Divya,Mouse,10,954,9540,UPI,Online,Mobile App,Flipkart,Store Pickup,Tablet
+ORD0191,2025-05-10,Michael Pacheco,North,Divya,Monitor,2,1011,2022,Credit Card,Online,Website,Flipkart,Store Pickup,Desktop
+ORD0192,2025-03-20,Michael Keller,West,Karan,Laptop,10,991,9910,Bank Transfer,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0193,2025-04-17,Bradley Thomas,South,Amit,Keyboard,3,411,1233,Credit Card,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0194,2025-04-25,Jordan Lozano,East,Amit,Printer,5,1457,7285,Cash,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0195,2025-03-19,Johnny Maddox,East,Divya,Tablet,1,1129,1129,Cash,Online,Mobile App,Amazon,Store Pickup,Desktop
+ORD0196,2025-04-24,Troy Wilcox,West,Rahul,Printer,10,1294,12940,Cash,Online,Mobile App,Amazon,Store Pickup,Mobile
+ORD0197,2025-04-03,Jonathan Wilson,North,Rahul,Laptop,5,1774,8870,Cash,Offline,Physical Store,POS System,In-Store Purchase,N/A
+ORD0198,2025-04-19,Anthony Russell,East,Sneha,Mouse,3,623,1869,Cash,Offline,Mall Store,POS System,In-Store Purchase,N/A
+ORD0199,2025-02-01,Matthew Johnson,North,Rahul,Tablet,5,1068,5340,UPI,Offline,Retail Outlet,POS System,In-Store Purchase,N/A
+ORD0200,2025-01-02,Allen Joseph,North,Rahul,Mouse,6,245,1470,Credit Card,Offline,Mall Store,POS System,In-Store Purchase,N/A
